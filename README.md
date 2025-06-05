@@ -9,8 +9,8 @@
   <a href="mailto:dhamanekarbajarang2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-Bajarang2002">
-    <img src="https://img.shields.io/github/followers/your-github-Bajarang2002?label=Follow&style=social" />
+  <a href="https://github.com/Bajarang2002">
+    <img src="https://img.shields.io/github/followers/Bajarang2002?label=Follow&style=social" />
   </a>
 </p>
 
